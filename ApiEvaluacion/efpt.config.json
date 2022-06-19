@@ -1,0 +1,95 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "EvcoreContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "ProjectRootNamespace": "ApiEvaluacion",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Cargos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Departamento_Proyectos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Detallepregunta]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Direcciones]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Empleados]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Evaluaciodetalle]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Evaluacion]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Funcionarios]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[movimientos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Ponderacion]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Pregunta]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Tpevaluacion]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[vw_ListQuestions]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[sp_ListadoPreguntas]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[sp_Obtenerfuncionariosxdepartamento]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "CF0068\\SQLEXPRESS.Evcore",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}

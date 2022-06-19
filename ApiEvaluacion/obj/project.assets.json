@@ -2094,11 +2094,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Walter Bermudez\\Documents\\WWW\\ApiEvaluacion\\ApiEvaluacion.csproj",
+      "projectUniqueName": "C:\\Users\\Walter Bermudez\\Documents\\WWW\\ReposGit\\ApiEvaluacion\\ApiEvaluacion.csproj",
       "projectName": "ApiEvaluacion",
-      "projectPath": "C:\\Users\\Walter Bermudez\\Documents\\WWW\\ApiEvaluacion\\ApiEvaluacion.csproj",
+      "projectPath": "C:\\Users\\Walter Bermudez\\Documents\\WWW\\ReposGit\\ApiEvaluacion\\ApiEvaluacion.csproj",
       "packagesPath": "C:\\Users\\Walter Bermudez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Walter Bermudez\\Documents\\WWW\\ApiEvaluacion\\obj\\",
+      "outputPath": "C:\\Users\\Walter Bermudez\\Documents\\WWW\\ReposGit\\ApiEvaluacion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2185,7 +2185,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
