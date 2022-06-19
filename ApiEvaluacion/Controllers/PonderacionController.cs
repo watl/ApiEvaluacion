@@ -22,7 +22,7 @@ namespace ApiEvaluacion.Controllers
             var pnd =  _context.Ponderacions.ToList();
             return Ok(pnd);
         }
-
+        //prueba
 
 
     }
