@@ -17,15 +17,12 @@ namespace ApiEvaluacion.Controllers
 
 
         [HttpGet(Name = "GetPonderacionList")]
-        public  IActionResult Get()
+        public async Task<IActionResult> GetAsync()
         {
-            var pnd =  _context.Ponderacions.ToList();
+            var pnd = await _context.Ponderacions.ToListAsync();
             return Ok(pnd);
         }
-        //prueba
 
-
-        //Agregar nuevos metodos
 
     }
 }
